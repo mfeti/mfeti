@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Feti.</h1>
 <h3 align="center">A passionate full-stack developer from Ethiopia.</h3>
 
-- 🔭 I’m currently working on [Video Game-hub](https://game-hub-by-mfeti.vercel.app/)
+- 🔭 I’m currently working on [Forum of Education and Relif Organization](https://fero-org.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
