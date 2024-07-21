@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Feti.</h1>
 <h3 align="center">A passionate full-stack developer from Ethiopia.</h3>
+I´m a highly motivated Full-Stack Developer with a Bachelor of Science in Computer Science. Possesses a strong foundation in both front-end and back-end development, eager to contribute to a collaborative team environment. Proven ability to learn new technologies quickly and apply them to solve complex problems. A meticulous detail-oriented individual with a passion for innovation and continuous improvement.
 
 ![mfeti's Stats](https://github-readme-stats.vercel.app/api?username=mfeti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 - 🔭 I’m currently working on [...]
