@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **HTML, CSS, JS,Type Script React, Node/Express.js**
+- 💬 Ask me about **HTML, CSS, JS,TypeScript React, Node/Express.js**
 
 - 📫 How to reach me **mfeti2175@gmail.com**
 ## 🌱 Currently Exploring
