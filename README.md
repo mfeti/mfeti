@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Feti.</h1>
 I´m a highly motivated Full-Stack Developer with a Bachelor of Science in Computer Science. Possesses a strong foundation in both front-end and back-end development, eager to contribute to a collaborative team environment. Proven ability to learn new technologies quickly and apply them to solve complex problems. A meticulous detail-oriented individual with a passion for innovation and continuous improvement.
-</br>
-![mfeti's Stats](https://github-readme-stats.vercel.app/api?username=mfeti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+##
+ ![mfeti's Stats](https://github-readme-stats.vercel.app/api?username=mfeti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ## 🚀 About Me
 - 🔭 I’m currently working on [...]
 
@@ -10,7 +10,7 @@ I´m a highly motivated Full-Stack Developer with a Bachelor of Science in Compu
 - 💬 Ask me about **HTML, CSS, JS,Type Script React, Node/Express.js**
 
 - 📫 How to reach me **mfeti2175@gmail.com**
-  ## 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
@@ -19,7 +19,7 @@ I´m a highly motivated Full-Stack Developer with a Bachelor of Science in Compu
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
-<h3 align="left">Connect with me</h3>
+## 📬 Get in Touch
 <p align="left">
 <a href="https://twitter.com/itfeti33726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itfeti33726" height="30" width="40" /></a>
 <a href="https://instagram.com/mfetiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfetiii" height="30" width="40" /></a>
