@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Feti.</h1>
 <h3 align="center">A passionate full-stack developer from Ethiopia.</h3>
 
+![mfeti's Stats](https://github-readme-stats.vercel.app/api?username=mfeti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 - 🔭 I’m currently working on [...]
 
 - 🌱 I’m currently learning **Next.js**
