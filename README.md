@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Feti.</h1>
 <h5>I have a highly motivated & proven ability to learn new technologies quickly and apply them to solve complex problems. A meticulous detail-oriented individual with a passion for innovation and continuous improvement.</h5>
+
 ![mfeti's Stats](https://github-readme-stats.vercel.app/api?username=mfeti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## 🚀 About Me
 - 🔭 I’m currently working on [...]
 
