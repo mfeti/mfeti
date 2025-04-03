@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Feti.</h1>
 <h5>I have a highly motivated & proven ability to learn new technologies quickly and apply them to solve complex problems. A meticulous detail-oriented individual with a passion for innovation and continuous improvement.</h5>
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mfeti?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mfeti?cardType=level&preferLogin=false)]
 ## 🚀 About Me
 - 🔭 I’m currently working on [...]
 
