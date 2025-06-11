@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mohammed Feti.</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Ahmed.</h1>
 
 <h5 align="center">
   I’m a highly motivated developer with a proven ability to learn new technologies quickly and apply them to solve complex problems. 
   I'm meticulous, detail-oriented, and passionate about innovation and continuous improvement.
 </h5>
 
+<!--
+Hiding GitHub Stats for now — public version doesn't show total commits correctly.
+  Will re-enable after deploying a custom instance with token support.
 <p align="center">
   <img 
   src="https://github-readme-stats.vercel.app/api?username=mfeti&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" 
   alt="mfeti's GitHub Stats" 
 />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mfeti&theme=vue-dark&hide_border=true" alt="mfeti's GitHub Streak Stats"/>
