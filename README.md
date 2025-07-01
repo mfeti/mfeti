@@ -16,7 +16,7 @@ Hiding GitHub Stats for now — public version doesn't show total commits correc
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamsuudi&theme=vue-dark&hide_border=true" alt="mfeti's GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=mfeti&theme=vue-dark&hide_border=true" alt="mfeti's GitHub Streak Stats"/>
 </p>
 
 ---
